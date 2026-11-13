@@ -40,7 +40,7 @@ Project Structure
 Quickstart & Installation
 
 1. Clone the repository:
-git clone https://github.com
+git clone  https://github.com/stevejseo94/Ai_Agent-.git
 cd Ai-Agent
 
 2. Configure your API keys:
