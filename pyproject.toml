@@ -1,0 +1,11 @@
+[project]
+name = "ai-agent"
+version = "0.1.0"
+description = "A general-purpose AI agent capable of reasoning, interacting with the local filesystem, 
+                executing Python scripts, and performing mathematical calculations via tool-calling capabilities."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openai==2.44.0",
+    "python-dotenv==1.1.0",
+]
